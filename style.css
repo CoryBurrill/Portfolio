@@ -1,0 +1,18 @@
+body {
+	background-image: url(https://i.imgur.com/ZOcLM7h.jpg);
+	color: black;
+}
+
+#header {
+	background-color: rgb(200, 200, 200);
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	font-family: Sans-serif;
+}
+
+#about-me {
+	background-color: rgb(200, 200, 200);
+	font-family: Sans-serif;
+	width: 45%;
+}
